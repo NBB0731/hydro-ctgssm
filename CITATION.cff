@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software or the frozen metric files, please cite the article and this archive."
+title: "Hydro-CTGSSM: continuous-time graph state-space modelling of sparse global river-water-quality monitoring"
+type: software
+version: 1.0.0
+date-released: "2026-09-20"
+license: MIT
+repository-code: "https://github.com/NBB0731/hydro-ctgssm"
+authors:
+  - family-names: Zhao
+    given-names: Yanan
+  - family-names: Liu
+    given-names: Hong
+keywords:
+  - water quality
+  - graph neural network
+  - state-space model
+  - GEMStat
+  - HydroRIVERS
+  - conformal prediction
+  - censored data
+  - phosphorus
+abstract: >-
+  Reference implementation of Hydro-CTGSSM, a continuous-time graph
+  state-space model for sparse river-water-quality monitoring networks, together
+  with the frozen evaluation metrics, the station-to-reach matching artefacts,
+  and the supplementary data tables accompanying the Water Research submission.

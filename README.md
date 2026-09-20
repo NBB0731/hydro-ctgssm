@@ -7,7 +7,6 @@ Reference implementation and frozen results for the study:
 > Hydrological graph learning under sparse global monitoring reveals cross-basin failure boundaries and chemistry-limited phosphorus control
 > Yanan Zhao, Hao Liu (corresponding author)
 > *Water Research* (submitted)
-
 ---
 
 ## What this repository contains
@@ -21,6 +20,31 @@ This is the **analysis code and frozen result files** supporting the manuscript.
 | `results/` | Frozen metric files cited in the manuscript (`five_seed_summary.csv`, `all_model_metrics.csv`, `worst_country_mae.csv`, …) |
 | `supplementary/` | Supplementary Data S1–S6 as submitted |
 | `analysis/` | Manuscript-side analysis and QA scripts: GFH bottle statistics, numeric/unit auditing, reference verification |
+
+---
+
+## Citation and archival
+
+| Version | Status |
+|---|---|
+| `v1.0.0` | This release — archived on Zenodo, DOI to be minted from tag `v1.0.0` |
+
+If you use this code or the frozen metric files, please cite the article. Until the
+article is published, cite the GitHub release:
+
+```bibtex
+@software{zhao_hydroctgssm_2026,
+  author  = {Zhao, Yanan and Liu, Hao},
+  title   = {Hydro-CTGSSM: continuous-time graph state-space modelling of
+             sparse global river-water-quality monitoring},
+  version = {v1.0.0},
+  year    = {2026},
+  url     = {https://github.com/NBB0731/hydro-ctgssm}
+}
+```
+
+Machine-readable metadata is provided in `CITATION.cff`. Once Zenodo mints a DOI,
+add `doi: 10.5281/zenodo.XXXXXXX` to that file and to the BibTeX entry above.
 
 ---
 
