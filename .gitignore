@@ -1,0 +1,58 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Data (third-party archives are never redistributed)
+data/
+*.zip
+*.tar.gz
+*.rar
+*.7z
+GFQA_v3/
+HydroRIVERS_v10_shp/
+
+# Large binary artefacts
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.mat
+*.db
+*.sqlite
+
+# Run outputs (regenerate with run_gpu_pipeline.sh)
+runs/
+RUN_DIR/
+run_root/
+corrected_results/
+remote_results/
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+.idea/
+.vscode/
+*.swp
+*~
+.ipynb_checkpoints/
+
+# Matplotlib font cache
+.mplconfig/
+fontlist-*.json
+
+# Build artefacts
+build/
+dist/
+*.egg-info/

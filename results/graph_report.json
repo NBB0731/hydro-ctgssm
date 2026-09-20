@@ -1,0 +1,7 @@
+{
+  "nodes": 14310,
+  "edges": 14615,
+  "occupied_reaches": 12612,
+  "nodes_with_outgoing": 12200,
+  "median_hops": 4.0
+}

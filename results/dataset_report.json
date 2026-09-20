@@ -1,0 +1,33 @@
+{
+  "nodes": 14310,
+  "events_daily": 2564489,
+  "snapshots": 40,
+  "node_split_counts": [
+    10016,
+    2147,
+    2147
+  ],
+  "parameters": [
+    "NO3N",
+    "TP",
+    "O2-Dis",
+    "TSS",
+    "TEMP",
+    "pH",
+    "EC"
+  ],
+  "static_columns": [
+    "Upstream Basin Area",
+    "Elevation",
+    "Latitude",
+    "Longitude",
+    "River Width",
+    "Discharge",
+    "snap_distance_m",
+    "CATCH_SKM",
+    "UPLAND_SKM",
+    "DIS_AV_CMS",
+    "ORD_STRA",
+    "ORD_FLOW"
+  ]
+}
