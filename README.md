@@ -27,7 +27,7 @@ This is the **analysis code and frozen result files** supporting the manuscript.
 
 | Version | Status |
 |---|---|
-| `v1.0.0` | This release — archived on Zenodo, DOI to be minted from tag `v1.0.0` |
+| `v1.0.0` | Released 2026 — archived on Zenodo, DOI [`10.5281/zenodo.22855230`](https://doi.org/10.5281/zenodo.22855230) |
 
 If you use this code or the frozen metric files, please cite the article. Until the
 article is published, cite the GitHub release:
@@ -39,12 +39,13 @@ article is published, cite the GitHub release:
              sparse global river-water-quality monitoring},
   version = {v1.0.0},
   year    = {2026},
-  url     = {https://github.com/NBB0731/hydro-ctgssm}
+  url     = {https://github.com/NBB0731/hydro-ctgssm},
+  doi     = {10.5281/zenodo.22855230}
 }
 ```
 
-Machine-readable metadata is provided in `CITATION.cff`. Once Zenodo mints a DOI,
-add `doi: 10.5281/zenodo.XXXXXXX` to that file and to the BibTeX entry above.
+Machine-readable metadata is provided in `CITATION.cff`, which carries the same DOI
+(`10.5281/zenodo.22855230`).
 
 ---
 

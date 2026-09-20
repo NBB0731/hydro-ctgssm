@@ -6,11 +6,12 @@ version: 1.0.0
 date-released: "2026-09-20"
 license: MIT
 repository-code: "https://github.com/NBB0731/hydro-ctgssm"
+doi: "10.5281/zenodo.22855230"
 authors:
   - family-names: Zhao
     given-names: Yanan
   - family-names: Liu
-    given-names: Hong
+    given-names: Hao
 keywords:
   - water quality
   - graph neural network
