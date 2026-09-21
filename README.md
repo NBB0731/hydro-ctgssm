@@ -4,9 +4,8 @@
 
 Reference implementation and frozen results for the study:
 
-> Hydrological graph learning under sparse global monitoring reveals cross-basin failure boundaries and chemistry-limited phosphorus control
-> Yanan Zhao, Hao Liu (corresponding author)
-> *Water Research* (submitted)
+> > Hydrological graph learning under sparse global monitoring reveals cross-basin failure boundaries and chemistry-limited phosphorus control
+
 ---
 
 ## What this repository contains
@@ -157,4 +156,4 @@ Code released under the MIT License (see `LICENSE`). Supplementary data tables a
 
 ## Contact
 
-Hao Liu — lhr3282@zua.edu.cn
+Yanan Zhao — zhao3226870051@163.com
